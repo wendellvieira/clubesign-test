@@ -14,8 +14,8 @@ Avaliação técnica para vaga dev fullstack clube-sign
 - Boa sorte
 ### Objetivos
 > Os dois itens desse teste foram tirados de branchs recentes... então prepare-se porque vc está bem próximo do desafio em si.
-- 1) Dentro do teste existe uma página de configuração em "/master/profile-settings"; Sua primeira missão é fazer com que essa página comece a salvar e ler as informações do perfil
-- 2) Dentro da pasta existe uma imagem chamada "tela.png"; sua missão é criar aquela interface o mais fidedigna possível e isso é tudo.
+1) Dentro do teste existe uma página de configuração em "/master/profile-settings"; Sua primeira missão é fazer com que essa página comece a salvar e ler as informações do perfil
+2) Dentro da pasta existe uma imagem chamada "tela.png"; sua missão é criar aquela interface o mais fidedigna possível e isso é tudo.
 
 
 ## Uso do servidor
