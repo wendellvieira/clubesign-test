@@ -1,0 +1,28 @@
+* {
+    font-family: 'Aller';
+    font-weight: 300;
+}
+body { background-color: #f3f3f3; }
+.btn { 
+	border: none; 
+	width: 200px; 
+	border-radius: 100px; 
+	text-transform: uppercase; 
+	font-weight: 700;
+	outline: none !important;
+}
+.btn:hover { opacity: 0.9 }
+
+.btn-primary { background-color: #8d44d2; }
+.btn-success { background-color: #a6bf1c; }
+.btn-danger { background-color: #dd6881; }
+.btn-warning { background-color: #e58d37; }
+.btn-info { background-color: #5db3e4;  }
+.btn-link { color: #a6bf1c; }
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active { background-color: #8d44d2 !important; }
+.btn-success:hover, .btn-success:focus, .btn-success:active { background-color: #a6bf1c !important; }
+.btn-danger:hover, .btn-danger:focus, .btn-danger:active { background-color: #dd6881 !important; }
+.btn-warning:hover, .btn-warning:focus, .btn-warning:active { background-color: #e58d37 !important; }
+.btn-info:hover, .btn-info:focus, .btn-info:active { background-color: #5db3e4 !important;  }
+.btn-link:hover, .btn-link:focus, .btn-link:active { color: #a6bf1c; }

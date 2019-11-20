@@ -1,0 +1,9 @@
+button.btn {
+	width: max-content !important;
+/*    padding-left: 6px !important;
+    padding-right: 6px !important;*/
+    border-radius: 3px !important;
+}
+.bg-danger {
+	background-color: #ed1460 !important;
+}

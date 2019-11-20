@@ -1,0 +1,4 @@
+<?php 
+	$permissions[] = array(
+		"tables" => []
+	);
