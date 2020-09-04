@@ -19,7 +19,7 @@
     "localforage": "^1.7.3",
     "lodash": "^4.17.15",
     "owl.carousel": "^2.2.0",
-    "quill": "^1.3.5",
+    "quill": "^1.3.7",
     "sweetalert": "^2.1.2",
     "toastr": "^2.1.2",
     "v-mask": "^1.3.4",
