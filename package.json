@@ -17,7 +17,7 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
     "localforage": "^1.7.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "owl.carousel": "^2.2.0",
     "quill": "^1.3.5",
     "sweetalert": "^2.1.2",
